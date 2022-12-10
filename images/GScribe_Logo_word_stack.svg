@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="320" height="75" viewBox="0 0 320 75" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="350" height="75" viewBox="0 0 350 75" xml:space="preserve">
 <desc>Created with Fabric.js 3.6.6</desc>
 <defs>
 </defs>
@@ -46,7 +46,7 @@
 </g>
 </g>
 <g transform="matrix(2.23 0 0 2.14 276.59 17.43)" style=""  >
-		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="35" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.01" y="5.65" style="stroke-width: 1; font-family: 'Open Sans', sans-serif; font-size: 18px; font-style: normal; font-weight: bold; fill: rgb(255,255,255); ">NED</tspan></text>
+		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="35" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.01" y="5.65" style="stroke-width: 1; font-family: 'Open Sans', sans-serif; font-size: 18px; font-style: normal; font-weight: bold; fill: rgb(255,255,255); ">NED'S</tspan></text>
 </g>
 <g transform="matrix(1.3 0 0 1.3 294.92 56.58)" style=""  >
 		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="35" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(171,208,180); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-55.1" y="10.99" style="stroke-width: 1; font-family: 'Open Sans', sans-serif; font-size: 30px; font-weight: bold; fill: rgb(84,202,68); ">MOD</tspan><tspan x="19.27" y="10.99" style="white-space: pre; ">  </tspan></text>
